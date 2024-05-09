@@ -2,14 +2,14 @@
 
 UI to test Auro Wallet API together with ZKCloudWorker
 
-# Install 
+## Install 
 Clone this repo 
 
 ~~~
 pnpm install
 ~~~
 
-# Run dev
+## Run dev
 ~~~
 pnpm run dev
 ~~~
